@@ -6,6 +6,7 @@
 - [SOP](https://javadabaei.github.io/SOP/)
 - [Certificates](https://javadabaei.github.io/Certificates/)
 - [GitHub](https://github.com/javadabaei)
+- [jlord.us-patchwork](https://github.com/jlord-patchwork.PNG)
 
 ------------------
 ## گروه ها
@@ -18,11 +19,10 @@
 
 <table style="width:100%">
   <tr>
+    <th >20-22</th>
+    <th >18-20</th>
     <th >16-18</th>
-    <th >14-16</th>
-    <th >12-14</th>
     <th>10-12</th>
-    <th>8-10</th>
     <th>روز</th>
   </tr>
   <tr>
@@ -43,7 +43,7 @@
   </tr>
    <tr>
      <th ></th>
-     <th ></th>
+     <th >برنامه نویسی دستگاه سیار</th>
      <th></th>
      <th></th>
     <th ></th>   
@@ -52,9 +52,9 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
+    <th>گسسته</th>
+    <th>ریاضی 2</th>
+    <th >فیزیک 2</th>
     <th>سه شنبه</th>
   </tr>
    <tr>
