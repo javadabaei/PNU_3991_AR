@@ -6,7 +6,7 @@
 - [SOP](https://javadabaei.github.io/SOP/)
 - [Certificates](https://javadabaei.github.io/Certificates/)
 - [GitHub](https://github.com/javadabaei)
-- [jlord.us-patchwork](https://github.com/jlord-patchwork.PNG)
+- [jlord.us-patchwork](https://javadabaei.github.io/jlord-patchwork.PNG)
 
 ------------------
 ## گروه ها
