@@ -4,7 +4,7 @@
 - [PNU_3991_AR](https://github.com/javadabaei/PNU_3991_AR)
 - [Resume](https://javadabaei.github.io/) 
 - [SOP](https://javadabaei.github.io/SOP/)
-- [Certificates](https://javadabaei.github.io/Certificates/)
+- [Certificates](https://javadabaei.github.io/Certificate/)
 - [GitHub](https://github.com/javadabaei)
 - [jlord.us-patchwork](https://javadabaei.github.io/jlord-patchwork.PNG)
 
